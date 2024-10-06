@@ -1,2 +1,2 @@
 print("Welcome!")
-print("I am strugglling with git push :(")
+print("Git push worked!!")
